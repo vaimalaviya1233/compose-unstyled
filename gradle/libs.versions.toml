@@ -1,6 +1,6 @@
 [versions]
 kotlin = "2.0.20"
-compose = "1.6.11"
+compose = "1.7.0-alpha03"
 agp = "8.2.0"
 composetheme = "1.2.0-alpha"
 
